@@ -1,0 +1,27 @@
+body{
+    /* The image used */
+   /* background-image:M1.jpg;
+
+     Full height 
+    height: 100%;*/
+    background-image: url("l4.jpg");
+  background-size: 1500px 1000px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+.container{
+	padding-top: 90px;
+	padding-left: 100px;
+}

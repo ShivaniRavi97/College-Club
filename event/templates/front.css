@@ -1,0 +1,37 @@
+h1{
+	font-size: 100px;
+	font-family: 'EB Garamond', serif;
+	text-align: center;
+
+}
+h2{
+	font-size: 40px;
+	font-family: 'Gentium Book Basic', serif;
+	text-align: right;
+	
+
+}
+form{
+	text-align: left;
+	font-family: 'Gentium Book Basic', serif;
+	text-align: right;
+}
+.container{
+	font-size: 20px;
+	font-family: 'Gentium Book Basic', serif;
+	text-align: right;
+
+
+
+}
+.col-md-1 offset-md-0{
+	font-size: 30px;
+	font-family: 'Gentium Book Basic', serif;
+
+
+}
+body {
+   background-image: url("5.jpg");
+  background-size: 1500px 1000px;
+
+}
